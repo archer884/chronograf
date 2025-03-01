@@ -1,8 +1,8 @@
 [package]
 name = "chronograf"
 authors = ["J/A <archer884@zoho.com>"]
-version = "0.1.0"
-edition = "2021"
+version = "0.1.1"
+edition = "2024"
 description = "A stopwatch."
 license = "Unlicense"
 repository = "https://github.com/archer884/chronograf"
