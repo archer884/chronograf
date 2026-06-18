@@ -11,6 +11,11 @@ fn main() {
 }
 ```
 
+## Notes
+
+- Backed by [`quanta`](https://crates.io/crates/quanta) — fast monotonic time.
+- Generic over an `Instant` trait, so you can drop in a fake clock for tests.
+
 ## Code of Conduct
 
 All conversations and contributions to this project shall adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
